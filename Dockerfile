@@ -1,4 +1,4 @@
-FROM CentOS
+FROM ubuntu
 MAINTAINER MarcLi <fozzmarc@gmail.com>
 
 WORKDIR /home
